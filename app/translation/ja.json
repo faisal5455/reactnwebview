@@ -1,0 +1,39 @@
+{
+    "settings_screen": {
+        "DarkMode": "ダークモード"
+    },
+    "tabs": {
+        "Home": "ホーム",
+        "Catalog": "カタログ",
+        "Offer": "オファー",
+        "Alerts": "アラート",
+        "Share": "シェア",
+        "More": "もっと"
+    },
+    "alerts_screen": {
+        "Today": "今日",
+        "Previous": "前",
+        "View": "表示"
+    },
+    "share_screen": {
+        "title": "当社のアプリが好きですか？",
+        "desc": "友達と興奮を共有しましょう！ あなたのサポートは、より広い視聴者とのつながりを助けています。",
+        "ShareApp": "シェア",
+        "RateUs": "評価する"
+    },
+    "rate_screen": {
+        "title": "当社のアプリをお楽しみいただけましたか？",
+        "desc": "ご意見は重要です！ アプリストアで評価してください。",
+        "RateUs": "評価する",
+        "DoLater": "後で評価する"
+    },
+    "offline_screen": {
+        "desc": "インターネット接続を確認してもう一度お試しください！",
+        "TryAgain": "再試行"
+    },
+    "offer_screen": {
+        "ShopNow": "ショップナウ",
+        "ComingSoon": "まもなく",
+        "BigOffer": "大特価"
+    }
+}

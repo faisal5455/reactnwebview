@@ -1,0 +1,39 @@
+{
+    "settings_screen": {
+        "DarkMode": "暗模式"
+    },
+    "tabs": {
+        "Home": "首页",
+        "Catalog": "目录",
+        "Offer": "优惠",
+        "Alerts": "提醒",
+        "Share": "分享",
+        "More": "更多"
+    },
+    "alerts_screen": {
+        "Today": "今天",
+        "Previous": "之前",
+        "View": "查看"
+    },
+    "share_screen": {
+        "title": "喜欢我们的应用？",
+        "desc": "与朋友分享激动人心的体验！您的支持帮助我们与更广泛的受众建立联系。",
+        "ShareApp": "分享应用",
+        "RateUs": "评价我们"
+    },
+    "rate_screen": {
+        "title": "喜欢我们的应用？",
+        "desc": "您的反馈很重要！请在应用商店为我们评分。",
+        "RateUs": "评价我们",
+        "DoLater": "稍后评价"
+    },
+    "offline_screen": {
+        "desc": "请检查您的互联网连接，然后重试！",
+        "TryAgain": "重试"
+    },
+    "offer_screen": {
+        "ShopNow": "立即购物",
+        "ComingSoon": "即将推出",
+        "BigOffer": "大优惠"
+    }
+}

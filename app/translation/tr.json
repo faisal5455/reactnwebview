@@ -1,0 +1,39 @@
+{
+    "settings_screen": {
+        "DarkMode": "Gece Modu"
+    },
+    "tabs": {
+        "Home": "Anasayfa",
+        "Catalog": "Katalog",
+        "Offer": "Teklif",
+        "Alerts": "Uyarılar",
+        "Share": "Daha",
+        "More": "Daha fazla"
+    },
+    "alerts_screen": {
+        "Today": "Bugün",
+        "Previous": "Önceki",
+        "View": "Gör"
+    },
+    "share_screen": {
+        "title": "Uygulamamızı Beğendiniz mi?",
+        "desc": "Heyecanı arkadaşlarınızla paylaşın! Desteğiniz bize daha geniş bir kitleye ulaşmada yardımcı oluyor.",
+        "ShareApp": "Paylaş",
+        "RateUs": "Puan Ver"
+    },
+    "rate_screen": {
+        "title": "Uygulamamızdan Keyif Alıyor musunuz?",
+        "desc": "Geri bildiriminiz önemlidir! Lütfen bizi App Store'da değerlendirin.",
+        "RateUs": "Puan Ver",
+        "DoLater": "Sonra Yap"
+    },
+    "offline_screen": {
+        "desc": "Lütfen internet bağlantınızı kontrol edip tekrar deneyin!",
+        "TryAgain": "Tekrar Dene"
+    },
+    "offer_screen": {
+        "ShopNow": "Alışveriş",
+        "ComingSoon": "Yakında",
+        "BigOffer": "Büyük Teklif"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Norwester.ttf",
+      "sha1": "bf03db856690d71483c1964d781f08e4003d618f"
+    },
+    {
+      "path": "app/assets/fonts/Whisper.ttf",
+      "sha1": "959248c76a0df620932762d54b65eaffb1db5196"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+    "settings_screen": {
+        "DarkMode": "Dark Mode"
+    },
+    "tabs": {
+        "Home": "Home",
+        "Catalog": "Catalog",
+        "Offer": "Offer",
+        "Alerts": "Alerts",
+        "Share": "Share",
+        "More": "More"
+    },
+    "alerts_screen": {
+        "Today": "Today",
+        "Previous": "Previous",
+        "View": "View",
+        "NoAlerts": "No Notifications Yet",
+        "NoAlertsDesc": "We will notify you once we have something for you."
+    },
+    "share_screen": {
+        "title": "Lover Our App?",
+        "desc": "Share the excitement with your friends! Your support helps us connect with a broader audience.",
+        "ShareApp": "Share App",
+        "RateUs": "Rate Us"
+    },
+    "rate_screen": {
+        "title": "Enjoying Our App?",
+        "desc": "Your feedback matters! Please rate us on App Store.",
+        "RateUs": "Rate Us",
+        "DoLater": "Do Later"
+    },
+    "offline_screen": {
+        "desc": "Please check your internet connection and try again!",
+        "TryAgain": "Try Again"
+    },
+    "offer_screen": {
+        "ShopNow": "SHOP NOW",
+        "ComingSoon": "Coming Soon",
+        "BigOffer": "BIG\nOFFER"
+    }
+}

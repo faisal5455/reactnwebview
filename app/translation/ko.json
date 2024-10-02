@@ -1,0 +1,39 @@
+{
+    "settings_screen": {
+        "DarkMode": "다크 모드"
+    },
+    "tabs": {
+        "Home": "홈",
+        "Catalog": "카탈로그",
+        "Offer": "제안",
+        "Alerts": "알림",
+        "Share": "공유",
+        "More": "더 많이"
+    },
+    "alerts_screen": {
+        "Today": "오늘",
+        "Previous": "이전",
+        "View": "보기"
+    },
+    "share_screen": {
+        "title": "우리 앱 좋아하시나요?",
+        "desc": "친구들과 함께 흥미를 공유하세요! 여러분의 지원은 더 많은 관객과 연결하는 데 도움이 됩니다.",
+        "ShareApp": "앱 공유",
+        "RateUs": "평가하기"
+    },
+    "rate_screen": {
+        "title": "우리 앱 즐기고 계신가요?",
+        "desc": "여러분의 피드백이 중요합니다! App Store에서 평가해 주세요.",
+        "RateUs": "평가하기",
+        "DoLater": "나중에 하기"
+    },
+    "offline_screen": {
+        "desc": "인터넷 연결을 확인하고 다시 시도하세요!",
+        "TryAgain": "다시 시도"
+    },
+    "offer_screen": {
+        "ShopNow": "지금 쇼핑하기",
+        "ComingSoon": "곧 출시 예정",
+        "BigOffer": "대형 특가"
+    }
+}

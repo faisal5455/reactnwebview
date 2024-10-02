@@ -1,0 +1,39 @@
+{
+    "settings_screen": {
+        "DarkMode": "Nachtmodus"
+    },
+    "tabs": {
+        "Home": "Startseite",
+        "Catalog": "Katalog",
+        "Offer": "Angebot",
+        "Alerts": "Benachr",
+        "Share": "Teilen",
+        "More": "Mehr"
+    },
+    "alerts_screen": {
+        "Today": "Heute",
+        "Previous": "Vorherige",
+        "View": "Anz"
+    },
+    "share_screen": {
+        "title": "Lieben Sie unsere App?",
+        "desc": "Teilen Sie die Begeisterung mit Ihren Freunden! Ihre Unterstützung hilft uns, mit einem breiteren Publikum in Kontakt zu treten.",
+        "ShareApp": "App teilen",
+        "RateUs": "Bewerten"
+    },
+    "rate_screen": {
+        "title": "Genießen Sie unsere App?",
+        "desc": "Ihr Feedback ist wichtig! Bitte bewerten Sie uns im App Store.",
+        "RateUs": "Bewerten",
+        "DoLater": "Später"
+    },
+    "offline_screen": {
+        "desc": "Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut!",
+        "TryAgain": "Erneut versuchen"
+    },
+    "offer_screen": {
+        "ShopNow": "JETZT KAUFEN",
+        "ComingSoon": "Bald verfügbar",
+        "BigOffer": "Großes Angebot"
+    }
+}

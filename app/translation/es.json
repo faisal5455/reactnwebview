@@ -1,0 +1,39 @@
+{
+    "settings_screen": {
+        "DarkMode": "Modo Oscuro"
+    },
+    "tabs": {
+        "Home": "Inicio",
+        "Catalog": "Catálogo",
+        "Offer": "Oferta",
+        "Alerts": "Alertas",
+        "Share": "Más",
+        "More": "Más"
+    },
+    "alerts_screen": {
+        "Today": "Hoy",
+        "Previous": "Anterior",
+        "View": "Ver"
+    },
+    "share_screen": {
+        "title": "¿Te gusta nuestra aplicación?",
+        "desc": "¡Comparte la emoción con tus amigos! Tu apoyo nos ayuda a conectar con un público más amplio.",
+        "ShareApp": "Compartir",
+        "RateUs": "Califícanos"
+    },
+    "rate_screen": {
+        "title": "¿Disfrutas de nuestra aplicación?",
+        "desc": "¡Tu opinión es importante! Por favor, califícanos en la App Store.",
+        "RateUs": "Califícanos",
+        "DoLater": "Luego"
+    },
+    "offline_screen": {
+        "desc": "¡Por favor, verifica tu conexión a Internet e inténtalo de nuevo!",
+        "TryAgain": "Reintentar"
+    },
+    "offer_screen": {
+        "ShopNow": "COMPRAR",
+        "ComingSoon": "Próximamente",
+        "BigOffer": "Gran oferta"
+    }
+}
